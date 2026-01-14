@@ -14,7 +14,7 @@ const authenticateToken = (req, res, next) => {
 
     jwt.verify(token, process.env.JWT_SECRET, (err, user) => {
         if (err) {
-            return res.status(403).json({   
+            return res.status(403).json({
                 success: false,
                 message: 'Invalid or expired token'
             });
@@ -40,6 +40,4 @@ const requireAdmin = (req, res, next) => {
 module.exports = {
     authenticateToken,
     requireAdmin
-}; 
-//tes commit
-//tes commit lagi lagi lagi
+};
