@@ -48,7 +48,6 @@ void loop() {
     Serial.println(lightIntensity);
 
     // 2. SIAPKAN DATA JSON
-    // Format yang diterima server: { "device_id": "...", "light_intensity": 123 }
     StaticJsonDocument<200> doc;
     doc["device_id"] = deviceId;
     doc["light_intensity"] = lightIntensity;
