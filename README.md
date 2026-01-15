@@ -1,6 +1,6 @@
 USECASE
 
-<img width="494" height="491" alt="Usecase drawio" src="https://github.com/user-attachments/assets/1291a7ab-0510-4c69-877c-acc9d7bae8cb" />
+<img width="873" height="711" alt="UC drawio" src="https://github.com/user-attachments/assets/b044117d-defe-431d-ba79-b9ee1e4fa8e6" />
 
 ACTIVITY DIAGRAM :
 
