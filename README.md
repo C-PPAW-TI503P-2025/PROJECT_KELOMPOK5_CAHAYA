@@ -1,5 +1,6 @@
 USECASE
-![WhatsApp Image 2026-01-15 at 00 25 56](https://github.com/user-attachments/assets/d2eba9f3-ae80-4bd5-af39-7fcf9d114fd9)
+<img width="494" height="491" alt="Usecase drawio" src="https://github.com/user-attachments/assets/1291a7ab-0510-4c69-877c-acc9d7bae8cb" />
+
 
 ACTIVITY DIAGRAM 1
 ![WhatsApp Image 2026-01-15 at 00 26 48](https://github.com/user-attachments/assets/4e23e5ac-da5d-4e52-b192-10a331751e94)
