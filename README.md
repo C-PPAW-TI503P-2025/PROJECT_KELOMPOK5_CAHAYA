@@ -8,19 +8,20 @@ ACTIVITY DIAGRAM 2
 ![WhatsApp Image 2026-01-15 at 00 28 15](https://github.com/user-attachments/assets/b3b26f14-6a38-4108-9aed-0dc281b9f87a)
 
 CLASS DIAGRAM
-![WhatsApp Image 2026-01-15 at 00 28 15](https://github.com/user-attachments/assets/bfa9d1ae-be2a-4a6b-b3fa-04ed7601d897)
+![class diagram](https://github.com/user-attachments/assets/b0476665-62de-4284-9f67-c76deee824d1)
 
 SEQUENCE 1
-![WhatsApp Image 2026-01-15 at 00 28 15](https://github.com/user-attachments/assets/67a4883c-6cd5-4e27-93f3-352099043601)
+![sequence 1](https://github.com/user-attachments/assets/c37f427a-e806-4665-845e-51e1f9f24feb)
 
 SEQUENCE 2
-![WhatsApp Image 2026-01-15 at 00 28 15](https://github.com/user-attachments/assets/b61c74fc-47e8-4edc-9736-1d1bfae63093)
+![sequence 2](https://github.com/user-attachments/assets/4482ff55-6a48-4a15-a2b0-11d9a41a6064)
 
 DEPLOYMENT DIAGRAM
-<img width="250" height="246" alt="image" src="https://github.com/user-attachments/assets/72555c40-9aab-4dfd-9b6f-3f2e707921bd" />
+![deploy](https://github.com/user-attachments/assets/1943663b-5c69-423c-9987-57f1a8142944)
 
 ERD
 <img width="376" height="384" alt="image" src="https://github.com/user-attachments/assets/5670f976-322c-47ce-bd53-f423dbffe92f" />
 
 ARSITEKTUR SISTEM INFORMASI
-<img width="634" height="610" alt="image" src="https://github.com/user-attachments/assets/1aeadec5-8caf-4739-bc04-dc9e8cc9cae5" />
+![arsitektur](https://github.com/user-attachments/assets/baa79ac8-7968-4b83-b1cf-6538196faa9b)
+
